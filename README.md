@@ -2,7 +2,7 @@ Build
 -----
 
 ```
-mvn clean packge
+mvn clean package
 ```
 
 Start
